@@ -11,6 +11,24 @@ h1{
     font-family: "Lato", sans-serif;
 }
 
+h2{
+    font-family: "Lato", sans-serif;
+}
+
+h3{
+    font-family: "Lato", sans-serif;
+}
+
 *{
     font-family: 'Raleway', sans-serif;
+}
+
+#flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+#flex-col{
+    display: flex;
+    flex-direction: column;
 }
